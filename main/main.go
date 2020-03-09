@@ -20,7 +20,7 @@ func main() {
 - path: /kubaidolove
   url: https://github.com/kubaidolove
 - path: /urlshort-final
-  url: https://github.com/gophercises/urlshort/tree/solution
+  url: https://github.com/KubaiDoLove/gophercises_urlShortener
 `
 
 	yamlHandler, err := urlshort.YAMLHandler([]byte(yaml), mapHandler)
